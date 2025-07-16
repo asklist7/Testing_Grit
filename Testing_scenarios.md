@@ -25,8 +25,6 @@ Test Plan Document : (https://docs.google.com/document/d/1_5uv2B7k9bMkB9w3_y3IYp
 **TH:** คุณต้องทดสอบ REST API สำหรับระบบจัดการผู้ใช้ ออกแบบ API test case ที่ครอบคลุม
 
 
-```
-
 ---
 
 ### Scenario 4: Cross-Browser Compatibility Testing / สถานการณ์ที่ 4: การทดสอบความเข้ากันได้ข้ามเบราว์เซอร์
