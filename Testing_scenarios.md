@@ -5,7 +5,7 @@
 
 ### Scenario 1: E-commerce Login Testing / สถานการณ์ที่ 1: การทดสอบการเข้าสู่ระบบ E-commerce
 
-Test Case Document : (https://docs.google.com/spreadsheets/d/1YWJROwRnYSTHOgljF-9KwRfh_hKz3NuqULj66otVQJo/edit?usp=sharing) {:target="_blank"}
+Test Case Document : (https://docs.google.com/spreadsheets/d/1YWJROwRnYSTHOgljF-9KwRfh_hKz3NuqULj66otVQJo/edit?usp=sharing) {:target="_blank" rel="noopener"}
 
 
 ---
